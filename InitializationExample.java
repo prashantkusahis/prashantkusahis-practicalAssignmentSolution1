@@ -1,4 +1,4 @@
-//.Write a program which has static block and constructor overloading,initialise variables using constructors and print it.
+//Write a program which has static block and constructor overloading,initialise variables using constructors and print it.
 
 public class InitializationExample {
     // Static block to be executed when the class is loaded
